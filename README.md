@@ -1,4 +1,10 @@
-### Hi there 👋, I'm Aishwarya
+### Hi there 👋, I'm Aishwarya. I am a Data Analyst working towards learning Machine Learning and NLP. 
+
+My Current stacks include:
+1. Python - NumPy, pandas, Seaborn, Matplotlib
+2. SQL - MySQL, PostgreSQL
+3. Dashboarding - Power BI
+
 
 <!--
 **aishwarya-1999/aishwarya-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
