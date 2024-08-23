@@ -10,7 +10,7 @@
 - **Machine Learning**: Scikit-learn
 - **Data Wrangling**: Pandas, MS Excel
 - **Databases**: MySQL, PostgreSQL
-- **Others**: Git, Jupyter Notebooks
+- **Others**: GitHub, Jupyter Notebooks, JIRA
 
 
 ## Portfolio Projects
