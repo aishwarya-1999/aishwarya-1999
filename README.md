@@ -5,7 +5,7 @@
 
 ## Skills & Tools
 - **Programming Languages**: Python, SQL
-- **Data Analysis***: Python, SQL, MS Excel
+- **Data Analysis**: Python, SQL, MS Excel
 - **Data Visualization**: MS Excel, Matplotlib, Seaborn, Power BI
 - **Machine Learning**: Scikit-learn
 - **Data Wrangling**: Pandas, MS Excel
