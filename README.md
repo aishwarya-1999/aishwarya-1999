@@ -9,7 +9,7 @@
 - **Data Visualization**: MS Excel, Matplotlib, Seaborn, Power BI
 - **Machine Learning**: Scikit-learn
 - **Data Wrangling**: Pandas, MS Excel
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL
 - **Others**: GitHub, Jupyter Notebooks, JIRA
 
 
