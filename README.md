@@ -18,12 +18,12 @@
 ### 1. US Labor Statistics Dashboard
 - **Description**: Developed an Excel dashboard to analyze Wage and Employment Trends in the US.
 - **Tools**: Microsoft Excel
-- **Link**: ([US Labor Statistics](https://github.com/aishwarya-1999/Excel/tree/main/US%20Labor%20Statistics))
+- **Link**: [US Labor Statistics](https://github.com/aishwarya-1999/Excel/tree/main/US%20Labor%20Statistics)
 
-### 2. Customer Segmentation Using K-Means
-- **Description**: Performed customer segmentation on retail data using K-Means clustering to identify distinct customer groups for targeted marketing.
-- **Tools**: Python, Pandas, Scikit-learn
-- **Link**: [Customer Segmentation Project](https://github.com/username/customer-segmentation)
+### 2. Content Analysis of SocialBuzz
+- **Description**: Performed analysis to learn about the top performing content along with customer engagement and sentiment analysis
+- **Tools**: MS Excel, Power BI
+- **Link**: [SocialBuzz](https://github.com/aishwarya-1999/SocialBuzz-Accenture-NA-Job-Sim)
 
 ### 3. Web Scraping for Market Research
 - **Description**: Built a Python script to scrape product data from e-commerce websites for market research purposes.
