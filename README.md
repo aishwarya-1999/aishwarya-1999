@@ -15,10 +15,10 @@
 
 ## Portfolio Projects
 
-### 1. Sales Analysis Dashboard
-- **Description**: Developed a Tableau dashboard to analyze sales data, highlighting trends, outliers, and key performance indicators.
-- **Tools**: Tableau, Excel
-- **Link**: [Sales Analysis Dashboard](https://github.com/username/sales-analysis)
+### 1. US Labor Statistics Dashboard
+- **Description**: Developed an Excel dashboard to analyze Wage and Employment Trends in the US.
+- **Tools**: Microsoft Excel
+- **Link**: ([US Labor Statistics](https://github.com/aishwarya-1999/Excel/tree/main/US%20Labor%20Statistics))
 
 ### 2. Customer Segmentation Using K-Means
 - **Description**: Performed customer segmentation on retail data using K-Means clustering to identify distinct customer groups for targeted marketing.
