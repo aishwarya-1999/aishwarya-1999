@@ -17,17 +17,17 @@
 
 ### 1. Regional Revenue Dashboard
 - **Description**: Developed an Excel dashboard to showcase MoM and YoY revenue analysis for Toy Store.
-- **Tools**: Microsoft Excel
-- **Link**: [Maven Toys](https://github.com/aishwarya-1999/Excel/commit/b3eea09306e6c57ba6313d9cebb2f11363802f98)
+- **Tools**: Microsoft Excel - VLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, MAXIFS
+- **Link**: [Maven Toys](https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/README.md  )
 
 ### 2. Content Analysis of SocialBuzz
 - **Description**: Performed analysis to learn about the top performing content along with customer engagement and sentiment analysis
 - **Tools**: MS Excel, Power BI
-- **Link**: [SocialBuzz](https://github.com/aishwarya-1999/SocialBuzz-Accenture-NA-Job-Sim)
+- **Link**: [SocialBuzz](https://github.com/aishwarya-1999/SocialBuzz-Accenture-NA-Job-Sim/blob/main/README.md)
 
 ### 3. Danny's Diner
 - **Description**: Analyzed the data for a diner to understand customer spending and product perfomance.
-- **Tools**: Python, BeautifulSoup, Pandas
+- **Tools**: MySQL
 - **Link**: [Danny's Diner](https://github.com/aishwarya-1999/SQL_Projects/blob/main/8WeeksSQLChallenge/Danny's%20Diner/README.md)
 
 ## Explore & Connect
