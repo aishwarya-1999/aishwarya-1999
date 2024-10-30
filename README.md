@@ -25,10 +25,10 @@
 - **Tools**: MS Excel, Power BI
 - **Link**: [SocialBuzz](https://github.com/aishwarya-1999/SocialBuzz-Accenture-NA-Job-Sim)
 
-### 3. Web Scraping for Market Research
-- **Description**: Built a Python script to scrape product data from e-commerce websites for market research purposes.
+### 3. Danny's Diner
+- **Description**: Analyzed the data for a diner to understand customer spending and product perfomance.
 - **Tools**: Python, BeautifulSoup, Pandas
-- **Link**: [Web Scraping Project](https://github.com/username/web-scraping)
+- **Link**: [Danny's Diner](https://github.com/aishwarya-1999/SQL_Projects/blob/main/8WeeksSQLChallenge/Danny's%20Diner/README.md)
 
 ## Explore & Connect
 Feel free to explore my projects, and don't hesitate to connect with me for any inquiries, collaborations, or feedback!
