@@ -15,10 +15,10 @@
 
 ## Portfolio Projects
 
-### 1. US Labor Statistics Dashboard
-- **Description**: Developed an Excel dashboard to analyze Wage and Employment Trends in the US.
+### 1. Regional Revenue Dashboard
+- **Description**: Developed an Excel dashboard to showcase MoM and YoY revenue analysis for Toy Store.
 - **Tools**: Microsoft Excel
-- **Link**: [US Labor Statistics](https://github.com/aishwarya-1999/Excel/tree/main/US%20Labor%20Statistics)
+- **Link**: [Maven Toys](https://github.com/aishwarya-1999/Excel/commit/b3eea09306e6c57ba6313d9cebb2f11363802f98)
 
 ### 2. Content Analysis of SocialBuzz
 - **Description**: Performed analysis to learn about the top performing content along with customer engagement and sentiment analysis
