@@ -1,6 +1,6 @@
 ## Hi, I'm Aishwarya!
 
-- A data enthusiast with a knack for turning numbers into meaningful stories. I love diving into data, uncovering trends, and creating visuals that make complex information easy to understand. 
+- A data Analyst with a knack for turning numbers into meaningful stories. I love diving into data, uncovering trends, and creating visuals that make complex information easy to understand. 
 - This portfolio is a collection of projects that I’m excited to share, reflecting my journey and growth in the world of data analytics.
 
 ## Skills & Tools
